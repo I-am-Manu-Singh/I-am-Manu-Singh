@@ -11,7 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Open source projects in Android**
 
+- 👨‍💻 Let's connect over Linkedin, My Linkedin profile link -> [https://www.linkedin.com/in/manpreet-singh-8202b31a5/](https://www.linkedin.com/in/manpreet-singh-8202b31a5/)
+
 - 🤝 I’m looking for help with **discussion of daily Leetcode problems**
+
+- 🤝 My Leetcode profile link [https://leetcode.com/u/manu_singh](https://leetcode.com/u/manu_singh/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/I-am-Manu-Singh?tab=repositories](https://github.com/I-am-Manu-Singh?tab=repositories)
 
