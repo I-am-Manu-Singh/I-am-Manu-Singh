@@ -19,11 +19,11 @@
 
 - 🤝 My Leetcode profile link -> [https://leetcode.com/u/manu_singh](https://leetcode.com/u/manu_singh/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/I-am-Manu-Singh?tab=repositories](https://github.com/I-am-Manu-Singh?tab=repositories)
+- 👨‍💻 All of my projects are available at -> [https://github.com/I-am-Manu-Singh?tab=repositories](https://github.com/I-am-Manu-Singh?tab=repositories)
 
 - 💬 Ask me about **Everything in Tech and IT etc.**
 
-- 📫 How to reach me **manpreetsinghkainth25@gmail.com**
+- 📫 How to reach me -> **manpreetsinghkainth25@gmail.com**
 
 - ⚡ Fun fact **I am the World's Most Passionate Music🎵 Lover🎶**
 
