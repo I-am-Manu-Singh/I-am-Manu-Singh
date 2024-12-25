@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-manu-singh" alt="i-am-manu-singh" /></a> </p>
 
+- 🔗 My Linktree Page -> [https://linktr.ee/manu_singh_](https://linktr.ee/manu_singh_)
+- 
 - 🔭 I’m currently working on **Several Android Projects**
 
 - 🌱 I’m currently learning **Native Jetpack Compose, KMM & DSA**
