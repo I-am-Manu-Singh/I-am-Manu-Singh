@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Several Android Projects**
 
-- 🌱 I’m currently learning **Native Jetpack compose and DSA**
+- 🌱 I’m currently learning **Native Jetpack Compose, KMM & DSA**
 
 - 👯 I’m looking to collaborate on **Open source projects in Android**
 
 - 👨‍💻 Let's connect over Linkedin, My Linkedin profile link -> [https://www.linkedin.com/in/manpreet-singh-8202b31a5/](https://www.linkedin.com/in/manpreet-singh-8202b31a5/)
 
-- 🤝 I’m looking for help with **discussion of daily Leetcode problems**
+- 🤝 I’m looking for help with **Discussion of daily Leetcode problems**
 
-- 🤝 My Leetcode profile link [https://leetcode.com/u/manu_singh](https://leetcode.com/u/manu_singh/)
+- 🤝 My Leetcode profile link -> [https://leetcode.com/u/manu_singh](https://leetcode.com/u/manu_singh/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/I-am-Manu-Singh?tab=repositories](https://github.com/I-am-Manu-Singh?tab=repositories)
 
@@ -23,9 +23,7 @@
 
 - 📫 How to reach me **manpreetsinghkainth25@gmail.com**
 
-- 📄 Know about my experiences [https://storage.rxresu.me/clqmni8si00ywsistwkxto133/resumes/manpreet-singh_resume.pdf](https://storage.rxresu.me/clqmni8si00ywsistwkxto133/resumes/manpreet-singh_resume.pdf)
-
-- ⚡ Fun fact **I am the world's most passionate music lover**
+- ⚡ Fun fact **I am the World's Most Passionate Music🎵 Lover🎶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +31,7 @@
 <a href="https://www.leetcode.com/manu_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manu_singh" height="30" width="40" /></a>
 <a href="https://medium.com/@manu-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manu-singh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13145684/manu-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manu-singh" height="30" width="40" /></a>
-<a href="https://linktr.ee/manu_singh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linktree.svg" alt="manu_singh_" height="30" width="40" /></a>
+<a href="https://linktr.ee/manu_singh_" target="blank"></a>
 
 </p>
 
