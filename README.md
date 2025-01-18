@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects in Android**
 
-- 👨‍💻 Let's connect over Linkedin, My Linkedin profile link -> [https://www.linkedin.com/in/manpreet-singh-8202b31a5/](https://www.linkedin.com/in/manpreet-singh-8202b31a5/)
+- 👨‍💻 Let's connect over Linkedin, My Linkedin profile link -> [https://www.linkedin.com/in/manpreet-singh001/](https://www.linkedin.com/in/manpreet-singh-8202b31a5/)
 
 - 🤝 I’m looking for help with **Discussion of daily Leetcode problems**
 
