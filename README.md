@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">🙏🏻Namaste, I'm Manpreet Singh</h1>
+<h1 align="left">Namaste🙏🏻, I'm Manpreet Singh</h1>
 
 ###
 
