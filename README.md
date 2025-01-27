@@ -11,7 +11,15 @@
 <h2 align="left">👨🏻‍💻 A computer geek from India.<br>⚒️ I'm currently learning App Development alongside with DSA to help strengthen my logical abilities to tackle programming problems. <br>⬇️ Here i would upload my daily Leetcode problems solutions and my resume projects.</h2>
 
 ###
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=I-am-Manu-Singh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=I-am-Manu-Singh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=I-am-Manu-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 <h4 align="left">🔗 My Linktree Page -> https://linktr.ee/manu_singh_<br><br>🔭 I’m currently working on Several Android Projects<br><br>🌱 I’m currently learning Jetpack Compose, KMP-KMM & DSA<br><br>👯 I’m looking to collaborate on Open source projects in Android<br><br>👨‍💻 Let's connect over Linkedin, My Linkedin profile link -> https://www.linkedin.com/in/manpreet-singh001/<br><br>🫱🏻 I’m looking for help with Discussion of daily Leetcode problems<br><br>🤝 My Leetcode profile link -> https://leetcode.com/u/manu_singh<br><br>👨‍💻 All of my projects are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br><br>💬 Ask me about Everything in Tech and IT etc.<br><br>📫 How to reach me -> manpreetsinghkainth25@gmail.com
 <br><br>⚡ Fun fact I am the World's Most Passionate Music🎵 Lover🎶</h4>
 
@@ -35,15 +43,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-am-Manu-Singh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=I-am-Manu-Singh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=I-am-Manu-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="left">
 </div>
