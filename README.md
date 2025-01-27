@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">🔗 My Linktree Page -> https://linktr.ee/manu_singh_<br><br>🔭 I’m currently working on Several Android Projects<br><br>🌱 I’m currently learning Jetpack Compose, KMP-KMM & DSA<br><br>👯 I’m looking to collaborate on Open source projects in Android<br><br>👨‍💻 Let's connect over Linkedin, My Linkedin profile link -> https://www.linkedin.com/in/manpreet-singh001/<br><br>🫱🏻 I’m looking for help with Discussion of daily Leetcode problems<br><br>🤝 My Leetcode profile link -> https://leetcode.com/u/manu_singh<br><br>👨‍💻 All of my projects are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br><br>💬 Ask me about Everything in Tech and IT etc.<br><br>📫 How to reach me -> [Send me an email](mailto:manpreetsinghkainth25@gmail.com)
+<h4 align="left">🔗 My Linktree Page -> https://linktr.ee/manu_singh_<br><br>🔭 I’m currently working on Several Android Projects<br><br>🌱 I’m currently learning Jetpack Compose, KMP-KMM & DSA<br><br>👯 I’m looking to collaborate on Open source projects in Android<br><br>👨‍💻 Let's connect over Linkedin, My Linkedin profile link -> https://www.linkedin.com/in/manpreet-singh001/<br><br>🫱🏻 I’m looking for help with Discussion of daily Leetcode problems<br><br>🤝 My Leetcode profile link -> https://leetcode.com/u/manu_singh<br><br>👨‍💻 All of my projects are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br><br>💬 Ask me about Everything in Tech and IT etc.<br><br>📫 How to reach me -> [Send me an email](mailto:example@gmail.com?subject=Hello%20from%20GitHub&body=I%20wanted%20to%20reach%20out!)
 <br><br>⚡ Fun fact I am the World's Most Passionate Music🎵 Lover🎶</h4>
 
 ###
