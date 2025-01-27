@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">● A computer geek from India.<br>● I'm currently learning App Development alongside with DSA to help strengthen my logical abilities to tackle programming problems. <br>● Here i would upload my daily Leetcode problems solutions and my resume projects.</h2>
+<h2 align="left">👨🏻‍💻 A computer geek from India.<br>⚒️ I'm currently learning App Development alongside with DSA to help strengthen my logical abilities to tackle programming problems. <br>⬇️ Here i would upload my daily Leetcode problems solutions and my resume projects.</h2>
 
 ###
 
