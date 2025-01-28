@@ -22,7 +22,7 @@
 ###
 <h4 align="left">
   
-🔗 My Linktree Page -> https://linktr.ee/manu_singh_ <br>
+🔗 My Linktree Page -> <a href="https://linktr.ee/manu_singh_"> <br>
     
 🌱 I’m currently Learning New things in Jetpack Compose, KMP-KMM & Improving my DSA<br>
   
@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  /> 
     </a> <br>
     
-🤝 I’m looking for help with Discussion of daily Leetcode problems, My Leetcode Profile link -> https://leetcode.com/u/manu_singh <br>
+🤝 I’m looking for help with Discussion of daily Leetcode problems, My Leetcode Profile link -> <a href="https://leetcode.com/u/manu_singh"> <br>
     
 👨‍💻 All of my Projects Repos are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br>
     
