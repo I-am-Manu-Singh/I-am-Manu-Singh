@@ -24,7 +24,9 @@
 ###
 <h4 align="left">
   
-🔗 My Linktree Page -> [Linktree](https://linktr.ee/manu_singh_)
+🔗 My Linktree Page ->  <a href="https://linktr.ee/manu_singh_" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="32" height="20" alt="linkedin logo"  /> 
+    </a> <br>
     
 🌱 I’m currently Learning New things in Jetpack Compose, KMP-KMM & Improving my DSA<br>
   
