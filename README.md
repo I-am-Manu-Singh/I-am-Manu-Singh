@@ -8,9 +8,11 @@
 
 ###
 
-<h3 align="left">👨🏻‍💻 A Computer & IT Geek from India.<br>⚒️ I'm Currently Learning App Development alongside with DSA to help Strengthen my Logical Abilities to Tackle Programming Problems. <br>📩 I am also Uploading my Daily Leetcode Problem Solutions along with my Resume Projects.</h3>
+<h2 align="left">
+  👨🏻‍💻 A Computer & IT Geek from India.<br><br>
+  ⚒️ I'm Currently Learning App Development alongside with DSA to help Strengthen my Logical Abilities to Tackle Programming Problems. <br><br>
+  📩 I am also Uploading my Daily Leetcode Problem Solutions along with my Resume Projects.</h2>
 
-###
 ###
 
 <div align="center">
@@ -51,3 +53,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="32" height="20" alt="stackoverflow logo"  />
   </a>
 </h4>
+###
