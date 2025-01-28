@@ -46,11 +46,13 @@
 
 ⚡ Fun fact I am the World's Most Passionate Music🎵 Lover🎶  <a href="https://www.youtube.com/@manu-singh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+  </a> <br>
 👽 My StackOverflow profile -> <a href="https://stackoverflow.com/users/13145684/manu-singh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </h4>
+
+
 ###
 
 <div align="left">
