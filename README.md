@@ -24,17 +24,17 @@
 ###
 <h4 align="left">
   
-🔗 My Linktree Page -> [Click Here](https://linktr.ee/manu_singh_)
+🔗 My Linktree Page -> [Linktree](https://linktr.ee/manu_singh_)
     
 🌱 I’m currently Learning New things in Jetpack Compose, KMP-KMM & Improving my DSA<br>
   
-👯 I’m looking to Collaborate on Open source projects in Android <br>
+👯 I’m looking to Collaborate on Open source projects in Android to give back to the dev community<br>
   
 👨‍💻 Let's Connect over Linkedin, My Linkedin profile link ->   <a href="https://www.linkedin.com/in/manpreet-singh001/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  /> 
     </a> <br>
     
-🤝 I’m looking for help with Discussion of daily Leetcode problems, My Leetcode Profile link -> [Click Here](https://leetcode.com/u/manu_singh") <br>
+🤝 I’m looking for help with Discussion of daily Leetcode problems, My Leetcode Profile link -> [Leetcode](https://leetcode.com/u/manu_singh") <br>
     
 👨‍💻 All of my Projects Repos are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br>
     
