@@ -22,32 +22,35 @@
 ###
 <h4 align="left">
   
-  🔗 My Linktree Page -> https://linktr.ee/manu_singh_<br><br>
+🔗 My Linktree Page -> https://linktr.ee/manu_singh_ <br>
     
-  🌱 I’m currently learning Jetpack Compose, KMP-KMM & DSA<br><br>
+🌱 I’m currently Learning New things in Jetpack Compose, KMP-KMM & Improving my DSA<br>
   
-  👯 I’m looking to collaborate on Open source projects in Android<br><br>
+👯 I’m looking to Collaborate on Open source projects in Android <br>
   
-  👨‍💻 Let's connect over Linkedin, My Linkedin profile link ->   <a href="https://www.linkedin.com/in/manpreet-singh001/" target="_blank">
+👨‍💻 Let's Connect over Linkedin, My Linkedin profile link ->   <a href="https://www.linkedin.com/in/manpreet-singh001/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> 
-    </a> <br><br>
+    </a> <br>
     
-  🤝 I’m looking for help with Discussion of daily Leetcode problems, My Leetcode Profile link -> https://leetcode.com/u/manu_singh <br><br>
+🤝 I’m looking for help with Discussion of daily Leetcode problems, My Leetcode Profile link -> https://leetcode.com/u/manu_singh <br>
     
-  👨‍💻 All of my Projects Repos are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br><br>
+👨‍💻 All of my Projects Repos are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br>
     
-  📫 How to reach me -> <a href="mailto:manpreetsinghkainth25@gmail.com?subject=Hello&body=I%20wanted%20to%20reach%20out!" target="_blank">
+📫 How to reach me -> <a href="mailto:manpreetsinghkainth25@gmail.com?subject=Hello&body=I%20wanted%20to%20reach%20out!" target="_blank">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> 
-   </a> <br><br>
+   </a> <br>
 
-  👽 Read my published articles at Medium -> <a href="https://medium.com/@manu-singh" target="_blank">
+👽 Read my published articles at Medium -> <a href="https://medium.com/@manu-singh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a> <br> <br>
+  </a> <br>
 
-⚡ Fun fact I am the World's Most Passionate Music🎵 Lover🎶</h4>  <a href="https://www.youtube.com/@manu-singh" target="_blank">
+⚡ Fun fact I am the World's Most Passionate Music🎵 Lover🎶  <a href="https://www.youtube.com/@manu-singh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-
+👽 My StackOverflow profile -> <a href="https://stackoverflow.com/users/13145684/manu-singh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+</h4>
 ###
 
 <div align="left">
@@ -63,9 +66,7 @@
   <a href="mailto:manpreetsinghkainth25@gmail.com?subject=Hello&body=I%20wanted%20to%20reach%20out!" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/13145684/manu-singh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
+  
 </div>
 
 
