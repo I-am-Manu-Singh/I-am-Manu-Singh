@@ -20,9 +20,33 @@
 </div>
 
 ###
-<h4 align="left">🔗 My Linktree Page -> https://linktr.ee/manu_singh_<br><br>🔭 I’m currently working on Several Android Projects<br><br>🌱 I’m currently learning Jetpack Compose, KMP-KMM & DSA<br><br>👯 I’m looking to collaborate on Open source projects in Android<br><br>👨‍💻 Let's connect over Linkedin, My Linkedin profile link -> https://www.linkedin.com/in/manpreet-singh001/<br><br>🫱🏻 I’m looking for help with Discussion of daily Leetcode problems<br><br>🤝 My Leetcode profile link -> https://leetcode.com/u/manu_singh<br><br>👨‍💻 All of my projects are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br><br>💬 Ask me about Everything in Tech and IT etc.<br><br>📫 How to reach me -> <a href="mailto:manpreetsinghkainth25@gmail.com?subject=Hello&body=I%20wanted%20to%20reach%20out!" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<h4 align="left">
+  
+  🔗 My Linktree Page -> https://linktr.ee/manu_singh_<br><br>
+    
+  🌱 I’m currently learning Jetpack Compose, KMP-KMM & DSA<br><br>
+  
+  👯 I’m looking to collaborate on Open source projects in Android<br><br>
+  
+  👨‍💻 Let's connect over Linkedin, My Linkedin profile link ->   <a href="https://www.linkedin.com/in/manpreet-singh001/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> 
+    </a> <br><br>
+    
+  🤝 I’m looking for help with Discussion of daily Leetcode problems, My Leetcode Profile link -> https://leetcode.com/u/manu_singh <br><br>
+    
+  👨‍💻 All of my Projects Repos are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br><br>
+    
+  📫 How to reach me -> <a href="mailto:manpreetsinghkainth25@gmail.com?subject=Hello&body=I%20wanted%20to%20reach%20out!" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> 
+   </a> <br><br>
 
-<br><br>⚡ Fun fact I am the World's Most Passionate Music🎵 Lover🎶</h4>
+  👽 Read my published articles at Medium -> <a href="https://medium.com/@manu-singh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a> <br> <br>
+
+⚡ Fun fact I am the World's Most Passionate Music🎵 Lover🎶</h4>  <a href="https://www.youtube.com/@manu-singh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
 
 ###
 
