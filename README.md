@@ -4,14 +4,14 @@
 
 ###
 
-<h1 align="left">Namaste🙏🏻, I'm Manpreet Singh</h1>
+<h2 align="left">Namaste🙏🏻, I'm Manpreet Singh</h2>
 
 ###
 
-<h2 align="left">
+<h4 align="left">
   👨🏻‍💻 A Computer & IT Geek from India.<br><br>
   ⚒️ I'm Currently Learning App Development alongside with DSA to help Strengthen my Logical Abilities to Tackle Programming Problems. <br><br>
-  📩 I am also Uploading my Daily Leetcode Problem Solutions along with my Resume Projects.</h2>
+  📩 I am also Uploading my Daily Leetcode Problem Solutions along with my Resume Projects.</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 ###
 <h4 align="left">
   
-🔗 My Linktree Page -> <a href="https://linktr.ee/manu_singh_"> <br>
+🔗 My Linktree Page -> [Click Here](https://linktr.ee/manu_singh_)
     
 🌱 I’m currently Learning New things in Jetpack Compose, KMP-KMM & Improving my DSA<br>
   
@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  /> 
     </a> <br>
     
-🤝 I’m looking for help with Discussion of daily Leetcode problems, My Leetcode Profile link -> <a href="https://leetcode.com/u/manu_singh"> <br>
+🤝 I’m looking for help with Discussion of daily Leetcode problems, My Leetcode Profile link -> [Click Here](https://leetcode.com/u/manu_singh") <br>
     
 👨‍💻 All of my Projects Repos are available at -> https://github.com/I-am-Manu-Singh?tab=repositories<br>
     
