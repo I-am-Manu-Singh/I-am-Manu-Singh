@@ -4,8 +4,7 @@
   <h3>Mobile Systems Engineer · Android & Kotlin Multiplatform Architect · High-Performance Offline & AI Apps</h3>
 
   <p align="center">
-    <a href="https://portfolio-website-nu-teal.vercel.app"><img src="https://img.shields.io/badge/Interactive_Portfolio-0066CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
-    <a href="https://manusingh.vercel.app/"><img src="https://img.shields.io/badge/Production_Mirror-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Mirror" /></a>
+    <a href="https://manusingh.vercel.app/"><img src="https://img.shields.io/badge/Interactive_Portfolio-0066CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Interactive Portfolio" /></a>
     <a href="https://github.com/I-am-Manu-Singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://leetcode.com/u/manu_singh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://medium.com/@manu-singh"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -271,5 +270,5 @@ Specializing in native mobile performance, modular multiplatform architecture, a
 
 <div align="center">
   <p><i>"Quality is not an act, it is a habit."</i></p>
-  <a href="https://portfolio-website-nu-teal.vercel.app"><b>Launch Interactive 3D Portfolio Website →</b></a>
+  <a href="https://manusingh.vercel.app/"><b>Launch Interactive 3D Portfolio Website →</b></a>
 </div>
