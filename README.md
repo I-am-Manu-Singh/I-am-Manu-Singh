@@ -77,7 +77,7 @@ Specializing in native mobile performance, modular multiplatform architecture, a
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/OmniChessReader">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/OmniChessReader/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/OmniChessReader/main/app/src/androidMain/res/drawable/ic_launcher_foreground.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>OmniChess Reader</b>
         </a><br />
         <sub><i>Stockfish NNUE · Computer Vision · FEN / PGN Digitize</i></sub>
