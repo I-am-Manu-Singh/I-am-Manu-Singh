@@ -1,51 +1,60 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manu%20Singh&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Android%20%26%20Cross-Platform%20Architect%20%7C%20AI%20Systems&descAlignY=62&descSize=18&animation=twinkling&theme=dark" width="100%" alt="Header" />
+  <h1>⚡ Manu Singh</h1>
+  <h3>Mobile Systems Engineer · Android & Kotlin Multiplatform Architect · High-Performance Offline & AI Apps</h3>
 
   <p align="center">
-    <a href="https://manusingh.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0066CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
-    <a href="https://github.com/I-am-Manu-Singh"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+    <a href="https://portfolio-website-nu-teal.vercel.app"><img src="https://img.shields.io/badge/Interactive_Portfolio-0066CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+    <a href="https://manusingh.vercel.app/"><img src="https://img.shields.io/badge/Production_Mirror-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Mirror" /></a>
+    <a href="https://github.com/I-am-Manu-Singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://leetcode.com/u/manu_singh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://medium.com/@manu-singh"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   </p>
 
   <p align="center">
-    <b>Building state-of-the-art mobile experiences, high-performance offline architectures, and AI-driven platforms.</b><br />
-    <i>Kotlin Multiplatform · Jetpack Compose · React Native · JNI / C++ Audio DSP · Vision ML · Supabase</i>
+    <img src="https://img.shields.io/badge/Focus-Mobile_Architecture_%26_KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Algorithms-250+_LeetCode_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Solved" />
+    <img src="https://img.shields.io/badge/Google_Play_Console-Active_Track-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Console" />
+    <img src="https://img.shields.io/badge/Systems-C++_NDK_%7C_Audio_DSP_%7C_Vision-00E5FF?style=flat-square&logo=cplusplus&logoColor=white" alt="Systems" />
   </p>
 
-  <a href="https://github.com/I-am-Manu-Singh">
-    <img src="https://komarev.com/ghpvc/?username=I-am-Manu-Singh&style=flat-square&color=00e5ff" alt="Profile Views" />
-  </a>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=I-am-Manu-Singh&label=PROFILE+VIEWS&style=for-the-badge&color=0066cc&base=1000" alt="Profile Views" />
+  </p>
+
+  <p align="center">
+    <b>Architecting fluid cross-platform runtimes, low-latency DSP pipelines, offline-first databases, and on-device neural vision.</b>
+  </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Engineering Philosophy & Overview
+### 🏛️ Engineering Philosophy & Specialization
 
-Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, **React Native / Expo**, and **low-latency edge architectures**. 
+Specializing in native mobile performance, modular multiplatform architecture, and hardware-accelerated on-device computing:
 
-- 🚀 **Flagship Production Track**: Creator of production-grade mobile applications and active candidates on the Google Play Console ecosystem.
-- ⚡ **Performance & Core Systems**: Real-time DSP audio processing, WebRTC signaling, JNI/NDK native interop, offline-first SQLite/Room sync engines, and MediaPipe on-device computer vision.
-- 🧩 **Algorithmic Rigor**: 250+ LeetCode problems solved with a focus on graph theory, dynamic programming, and clean modular architecture.
-- 🌐 **Full-Stack Desktop & Web Bridges**: Electron desktop bridges for enterprise accounting (TallyPrime), Supabase Edge Functions, and reactive web interfaces.
+- 📱 **Modern Declarative UI**: Jetpack Compose & Compose Multiplatform (CMP) with reactive MVI/MVVM, Flow/Coroutines, and Material 3 Expressive motion design.
+- ⚡ **Real-Time Systems & Audio DSP**: Low-latency AudioTrack pipelines, MIDI SysEx hardware I/O, WebRTC peer-to-peer streaming, and native C++/JNI rendering layers.
+- 🧠 **On-Device Machine Learning**: Edge inference via MediaPipe and ONNX (quantized local LLMs, chessboard computer vision, real-time audio FFT telemetry).
+- 💾 **Resilient Offline Architecture**: Schema-driven SQLDelight and Room KMP engines with conflict-free background synchronization.
+- 🚀 **Full-Stack Desktop & Cross-Platform**: React Native / Expo SDK 51, Flutter tactical logistics, and Electron enterprise bridges for TallyPrime.
 
 ---
 
-### 🚀 Production Applications & Featured Engineering Projects
+### 🚀 Flagship Applications & Production Repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/pEQ-Learn-App">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/pEQ-Learn-App/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/pEQ-Learn-App/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>pEQ Learn (Universal DAW & Academy)</b>
         </a><br />
         <sub><i>Compose Multiplatform · MIDI SysEx · Virtual Studio Engine</i></sub>
       </div>
-      <p>Universal multi-instrument workstation featuring interactive 88-key piano, multi-track synth sequence recording, low-latency AudioTrack DSP, MIDI controller routing, and comprehensive lesson modules.</p>
+      <p>Universal multi-instrument workstation featuring interactive 88-key piano, multi-track sequence recording, low-latency AudioTrack DSP, MIDI controller routing, and comprehensive lesson modules.</p>
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/pEQ-Learn-App"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" /></a>
       </div>
@@ -53,7 +62,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/OmniMind">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/OmniMind/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/OmniMind/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>OmniMind (AI Cognitive Workspace)</b>
         </a><br />
         <sub><i>KMP · MediaPipe LLM · On-Device Neural Inference</i></sub>
@@ -69,7 +78,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/OmniChessReader">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/OmniChessReader/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/OmniChessReader/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>OmniChess Reader</b>
         </a><br />
         <sub><i>Stockfish NNUE · Computer Vision · FEN / PGN Digitize</i></sub>
@@ -82,7 +91,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/NitnemGutkaSahib">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/NitnemGutkaSahib/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/NitnemGutkaSahib/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>Bani: Nitnem & Steek Companion</b>
         </a><br />
         <sub><i>Google Play 14-Day Closed Testing · GurbaniDB · Media3</i></sub>
@@ -98,7 +107,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/SevaStack-App">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/SevaStack-App/main/assets/images/icon.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/SevaStack-App/main/assets/images/icon.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>SevaStack (Kota Logistics & ERP)</b>
         </a><br />
         <sub><i>React Native · Expo SDK 51 · Supabase RLS · POS System</i></sub>
@@ -111,7 +120,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/TiffinManagement">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/TiffinManagement/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/TiffinManagement/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>Tiffin Management Logistics</b>
         </a><br />
         <sub><i>Jetpack Compose · Room Database · Route Dispatcher</i></sub>
@@ -127,7 +136,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/nux-mg-101-quick-tone">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/nux-mg-101-quick-tone/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/nux-mg-101-quick-tone/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>QuickTone Guitar Lab (NUX MG-101)</b>
         </a><br />
         <sub><i>USB-OTG Host · MIDI SysEx · Hardware DSP Controller</i></sub>
@@ -140,7 +149,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/pEQ-Media-App">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/pEQ-Media-App/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/pEQ-Media-App/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>pEQ Neural Workstation</b>
         </a><br />
         <sub><i>KMP · Real-time DSP Equalizer · VLC Pipeline · Google Cast</i></sub>
@@ -156,7 +165,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/reconcAIle-Hub">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/reconcAIle-Hub/main/public/logo.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/reconcAIle-Hub/main/public/logo.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>ReconcAILe Hub (TallyPrime Automation)</b>
         </a><br />
         <sub><i>Electron · TallyPrime XML · AI Invoice OCR · TypeScript</i></sub>
@@ -169,7 +178,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/Signy-App">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/Signy-App/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/Signy-App/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>Signy Tactical Application</b>
         </a><br />
         <sub><i>KMP · WebRTC Video Streams · RTSP Feeds · Supabase</i></sub>
@@ -185,7 +194,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/TrekIndiaApp">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/TrekIndiaApp/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/TrekIndiaApp/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>Trip India: Expedition HQ</b>
         </a><br />
         <sub><i>Flutter · Supabase RLS · GlassShimmer Framework · Logistics</i></sub>
@@ -198,7 +207,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/HostelShopManagementApp">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/HostelShopManagementApp/main/playstore/icon_512.png" width="80" height="80" style="border-radius: 20%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/HostelShopManagementApp/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>Hostel Shop Management</b>
         </a><br />
         <sub><i>Flutter · Barcode Scanner · Offline Billing · Analytics</i></sub>
@@ -247,7 +256,7 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
 
 ---
 
-### 📊 GitHub Analytics & Telemetry
+### 📊 GitHub Activity & Real-Time Telemetry
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=I-am-Manu-Singh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=0066cc" height="160" alt="GitHub Stats" />
@@ -255,12 +264,12 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-am-Manu-Singh&theme=tokyonight&hide_border=true&ring=00e5ff&fire=0066cc&currStreakLabel=00e5ff" height="145" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=I-am-Manu-Singh&theme=tokyonight&hide_border=true&ring=00e5ff&fire=0066cc&currStreakLabel=00e5ff" height="145" alt="Streak Stats" />
 </div>
 
 ---
 
 <div align="center">
   <p><i>"Quality is not an act, it is a habit."</i></p>
-  <a href="https://manusingh.vercel.app/"><b>Explore My Interactive Portfolio Website →</b></a>
+  <a href="https://portfolio-website-nu-teal.vercel.app"><b>Launch Interactive 3D Portfolio Website →</b></a>
 </div>
