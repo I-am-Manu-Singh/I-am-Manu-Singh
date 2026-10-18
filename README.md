@@ -88,7 +88,7 @@ Specializing in native mobile performance, modular multiplatform architecture, a
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/I-am-Manu-Singh/NitnemGutkaSahib">
-          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/NitnemGutkaSahib/main/playstore/icon_512.png" width="84" height="84" style="border-radius: 22%;" /><br />
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/NitnemGutkaSahib/main/composeApp/src/androidMain/res/drawable-nodpi/ic_launcher_playstore.png" width="84" height="84" style="border-radius: 22%;" /><br />
           <b>Bani: Nitnem & Steek Companion</b>
         </a><br />
         <sub><i>Google Play 14-Day Closed Testing · GurbaniDB · Media3</i></sub>
