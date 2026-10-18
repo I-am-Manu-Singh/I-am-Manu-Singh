@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manu%20Singh&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Android%20%26%20Cross-Platform%20Architect%20%7C%20AI%20Systems&descAlignY=62&descSize=18&animation=twinkling&theme=dark" width="100%" alt="Header" />
 
   <p align="center">
-    <a href="https://portfolio-website-nu-teal.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-0066CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+    <a href="https://manusingh.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0066CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
     <a href="https://github.com/I-am-Manu-Singh"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
     <a href="https://leetcode.com/u/manu_singh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://medium.com/@manu-singh"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -262,5 +262,5 @@ Focusing on the convergence of **Kotlin Multiplatform (KMP)**, **Jetpack Compose
 
 <div align="center">
   <p><i>"Quality is not an act, it is a habit."</i></p>
-  <a href="https://portfolio-website-nu-teal.vercel.app"><b>Explore My Interactive Portfolio Website →</b></a>
+  <a href="https://manusingh.vercel.app/"><b>Explore My Interactive Portfolio Website →</b></a>
 </div>
