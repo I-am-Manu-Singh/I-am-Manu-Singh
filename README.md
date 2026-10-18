@@ -17,9 +17,7 @@
     <img src="https://img.shields.io/badge/Systems-C++_NDK_%7C_Audio_DSP_%7C_Vision-00E5FF?style=flat-square&logo=cplusplus&logoColor=white" alt="Systems" />
   </p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=I-am-Manu-Singh&label=PROFILE+VIEWS&style=for-the-badge&color=0066cc&base=1000" alt="Profile Views" />
-  </p>
+  
 
   <p align="center">
     <b>Architecting fluid cross-platform runtimes, low-latency DSP pipelines, offline-first databases, and on-device neural vision.</b>
