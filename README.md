@@ -40,6 +40,38 @@
 </div>
 
 
+### 🛠️ Core Engineering Arsenal & Technologies
+
+<div align="center">
+
+  #### Mobile & Architecture
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Koin_%2F_Dagger_Hilt-000000?style=for-the-badge&logo=google&logoColor=white" />
+
+  #### Performance, DSP & Vision
+  <img src="https://img.shields.io/badge/JNI_%2F_NDK-3DDC84?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/USB--OTG_SysEx-FFA000?style=for-the-badge&logo=usb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ExoPlayer_%2F_Media3-E91E63?style=for-the-badge&logo=youtube&logoColor=white" />
+
+  #### Databases, Cloud & Web
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite_%2F_Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+
+</div>
+
 ### 🏛️ Engineering Philosophy & Specialization
 
 Specializing in native mobile performance, modular multiplatform architecture, and hardware-accelerated on-device computing:
@@ -229,39 +261,6 @@ Specializing in native mobile performance, modular multiplatform architecture, a
     </td>
   </tr>
 </table>
-
-
-### 🛠️ Core Engineering Arsenal & Technologies
-
-<div align="center">
-
-  #### Mobile & Architecture
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Koin_%2F_Dagger_Hilt-000000?style=for-the-badge&logo=google&logoColor=white" />
-
-  #### Performance, DSP & Vision
-  <img src="https://img.shields.io/badge/JNI_%2F_NDK-3DDC84?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/USB--OTG_SysEx-FFA000?style=for-the-badge&logo=usb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExoPlayer_%2F_Media3-E91E63?style=for-the-badge&logo=youtube&logoColor=white" />
-
-  #### Databases, Cloud & Web
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite_%2F_Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-
-</div>
 
 
 <div align="center">
