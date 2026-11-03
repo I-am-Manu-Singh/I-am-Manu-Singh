@@ -26,7 +26,18 @@
   </p>
 
 </div>
+---
 
+### 📊 GitHub Activity & Real-Time Telemetry
+
+<div align="center">
+<img
+  src="https://github-statspro.vercel.app/api/stats/I-am-Manu-Singh" height="160" 
+  alt="Stats Card"
+/>
+    <img src="https://streak-stats.demolab.com?user=I-am-Manu-Singh&theme=tokyonight&hide_border=true&ring=00e5ff&fire=0066cc&currStreakLabel=00e5ff" height="145" alt="Streak Stats" />
+
+</div>
 ---
 
 ### 🏛️ Engineering Philosophy & Specialization
@@ -251,22 +262,6 @@ Specializing in native mobile performance, modular multiplatform architecture, a
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 
-</div>
-
----
-
-### 📊 GitHub Activity & Real-Time Telemetry
-
-<div align="center">
-<img
-  src="https://github-statspro.vercel.app/api/stats/I-am-Manu-Singh" height="160" 
-  alt="Stats Card"
-/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Manu-Singh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00e5ff" height="160" alt="Top Languages" /> -->
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=I-am-Manu-Singh&theme=tokyonight&hide_border=true&ring=00e5ff&fire=0066cc&currStreakLabel=00e5ff" height="145" alt="Streak Stats" />
 </div>
 
 ---
