@@ -70,7 +70,7 @@ Specializing in native mobile performance, modular multiplatform architecture, a
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <div align="center">
         <b>🎼 Staff & Tab Notation Viewer</b><br />
         <sub><i>Kotlin Multiplatform (KMP) · Compose · MusicXML/MIDI Parsers</i></sub>
@@ -81,7 +81,7 @@ Specializing in native mobile performance, modular multiplatform architecture, a
         <a href="https://github.com/I-am-Manu-Singh/staff-tab-notation"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" /></a>
       </div>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <div align="center">
         <b>⌚ WearFlex</b><br />
         <sub><i>Wear OS · Jetpack Compose · Horology · Fitness Telemetry</i></sub>
@@ -90,16 +90,6 @@ Specializing in native mobile performance, modular multiplatform architecture, a
       <div align="center">
         <a href="https://jitpack.io/#I-am-Manu-Singh/wearflex/1.1.0"><img src="https://img.shields.io/badge/JitPack-v1.1.0-2E7D32?logo=git" /></a>
         <a href="https://github.com/I-am-Manu-Singh/wearflex"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" /></a>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <b>⏱️ WearProductivity</b><br />
-        <sub><i>Wear OS · Glance Tiles · Complications · Standalone Engine</i></sub>
-      </div>
-      <p>Modern productivity ecosystem tailored for Wear OS smartwatches featuring custom curved Glance tiles, watch face complications, interval micro-timers, task scheduling, and ultra-low power haptic feedback loops.</p>
-      <div align="center">
-        <a href="https://github.com/I-am-Manu-Singh/WearProductivity"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" /></a>
       </div>
     </td>
   </tr>
@@ -281,8 +271,24 @@ Specializing in native mobile performance, modular multiplatform architecture, a
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/I-am-Manu-Singh/WearProductivity">
+          <img src="https://raw.githubusercontent.com/I-am-Manu-Singh/WearProductivity/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="84" height="84" style="border-radius: 22%;" onerror="this.style.display='none'" /><br />
+          <b>WearProductivity</b>
+        </a><br />
+        <sub><i>Wear OS · Glance Curved Tiles · Complications · Haptics</i></sub>
+      </div>
+      <p>Modern productivity ecosystem tailored for Wear OS smartwatches featuring custom curved Glance tiles, watch face complications, interval micro-timers, task scheduling, and ultra-low power haptic feedback loops.</p>
+      <div align="center">
+        <a href="https://github.com/I-am-Manu-Singh/WearProductivity"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
-
 
 <div align="center">
   <p><i>"Quality is not an act, it is a habit."</i></p>
