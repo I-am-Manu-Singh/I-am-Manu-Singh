@@ -17,34 +17,8 @@
     <img src="https://img.shields.io/badge/Algorithms-250+_LeetCode_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Solved" />
     <img src="https://img.shields.io/badge/Google_Play_Console-Active_Track-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Console" />
     <img src="https://img.shields.io/badge/Systems-C++_NDK_%7C_Audio_DSP_%7C_Vision-00E5FF?style=flat-square&logo=cplusplus&logoColor=white" alt="Systems" />
-  </p>
 
-  
-
-  <p align="center">
-    <b>Architecting fluid cross-platform runtimes, low-latency DSP pipelines, offline-first databases, and on-device neural vision.</b>
-  </p>
-
-</div>
-
-
-### 📊 GitHub Activity & Real-Time Telemetry
-
-<div align="center">
-<img
-  src="https://github-statspro.vercel.app/api/stats/I-am-Manu-Singh" height="160" 
-  alt="Stats Card"
-/>
-    <img src="https://streak-stats.demolab.com?user=I-am-Manu-Singh&theme=tokyonight&hide_border=true&ring=00e5ff&fire=0066cc&currStreakLabel=00e5ff" height="145" alt="Streak Stats" />
-
-</div>
-
-
-### 🛠️ Core Engineering Arsenal & Technologies
-
-<div align="center">
-
-  #### Mobile & Architecture
+      #### Mobile & Architecture
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -69,6 +43,26 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+
+  </p>
+
+  
+
+  <p align="center">
+    <b>Architecting fluid cross-platform runtimes, low-latency DSP pipelines, offline-first databases, and on-device neural vision.</b>
+  </p>
+
+</div>
+
+
+### 📊 GitHub Activity & Real-Time Telemetry
+
+<div align="center">
+<img
+  src="https://github-statspro.vercel.app/api/stats/I-am-Manu-Singh" height="160" 
+  alt="Stats Card"
+/>
+    <img src="https://streak-stats.demolab.com?user=I-am-Manu-Singh&theme=tokyonight&hide_border=true&ring=00e5ff&fire=0066cc&currStreakLabel=00e5ff" height="145" alt="Streak Stats" />
 
 </div>
 
