@@ -1,5 +1,7 @@
-  &nbsp;![](https://komarev.com/ghpvc/?username=I-am-Manu-Singh&color=brightgreen)
 <div align="center">
+    &nbsp;![](https://komarev.com/ghpvc/?username=I-am-Manu-Singh&color=brightgreen)
+
+  <h2>⚡ Hi, I'm</h2>
 
   <h1>⚡ Manu Singh</h1>
   <h3>Mobile Systems Engineer · Android & Kotlin Multiplatform Architect · High-Performance Offline & AI Apps</h3>
