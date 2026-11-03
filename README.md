@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1>⚡ Hi, I'm\nManu Singh</h1>
+  <h1>⚡ Hi, I'm Manu Singh</h1>
   <h3>Mobile Systems Engineer · Android & Kotlin Multiplatform Architect · High-Performance Offline & AI Apps</h3>
  
   <p align="center">
