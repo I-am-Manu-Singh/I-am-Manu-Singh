@@ -1,10 +1,9 @@
+  &nbsp;![](https://komarev.com/ghpvc/?username=I-am-Manu-Singh&color=brightgreen)
 <div align="center">
 
   <h1>⚡ Manu Singh</h1>
   <h3>Mobile Systems Engineer · Android & Kotlin Multiplatform Architect · High-Performance Offline & AI Apps</h3>
-  <p align="center">
-      &nbsp;![](https://komarev.com/ghpvc/?username=I-am-Manu-Singh&color=brightgreen)
-  </p>
+ 
   <p align="center">
     <a href="https://manusingh.vercel.app/"><img src="https://img.shields.io/badge/Interactive_Portfolio-0066CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Interactive Portfolio" /></a>
     <a href="https://github.com/I-am-Manu-Singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
