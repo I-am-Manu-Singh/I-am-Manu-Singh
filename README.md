@@ -26,7 +26,7 @@
   </p>
 
 </div>
----
+
 
 ### 📊 GitHub Activity & Real-Time Telemetry
 
@@ -38,7 +38,7 @@
     <img src="https://streak-stats.demolab.com?user=I-am-Manu-Singh&theme=tokyonight&hide_border=true&ring=00e5ff&fire=0066cc&currStreakLabel=00e5ff" height="145" alt="Streak Stats" />
 
 </div>
----
+
 
 ### 🏛️ Engineering Philosophy & Specialization
 
@@ -50,7 +50,7 @@ Specializing in native mobile performance, modular multiplatform architecture, a
 - 💾 **Resilient Offline Architecture**: Schema-driven SQLDelight and Room KMP engines with conflict-free background synchronization.
 - 🚀 **Full-Stack Desktop & Cross-Platform**: React Native / Expo SDK 51, Flutter tactical logistics, and Electron enterprise bridges for TallyPrime.
 
----
+
 
 ### 🚀 Flagship Applications & Production Repositories
 
@@ -230,7 +230,6 @@ Specializing in native mobile performance, modular multiplatform architecture, a
   </tr>
 </table>
 
----
 
 ### 🛠️ Core Engineering Arsenal & Technologies
 
@@ -264,7 +263,6 @@ Specializing in native mobile performance, modular multiplatform architecture, a
 
 </div>
 
----
 
 <div align="center">
   <p><i>"Quality is not an act, it is a habit."</i></p>
