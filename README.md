@@ -2,6 +2,7 @@
 
   <h1>⚡ Manu Singh</h1>
   <h3>Mobile Systems Engineer · Android & Kotlin Multiplatform Architect · High-Performance Offline & AI Apps</h3>
+  &nbsp;![](https://komarev.com/ghpvc/?username=I-am-Manu-Singh&color=brightgreen)
 
   <p align="center">
     <a href="https://manusingh.vercel.app/"><img src="https://img.shields.io/badge/Interactive_Portfolio-0066CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Interactive Portfolio" /></a>
@@ -256,7 +257,10 @@ Specializing in native mobile performance, modular multiplatform architecture, a
 ### 📊 GitHub Activity & Real-Time Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-am-Manu-Singh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=0066cc" height="160" alt="GitHub Stats" />
+<img
+  src="https://github-statspro.vercel.app/api/stats/I-am-Manu-Singh"
+  alt="Stats Card"
+/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Manu-Singh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00e5ff" height="160" alt="Top Languages" />
 </div>
 
