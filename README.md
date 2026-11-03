@@ -10,15 +10,12 @@
     <a href="https://github.com/I-am-Manu-Singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://leetcode.com/u/manu_singh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://medium.com/@manu-singh"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  </p>
 
-  <p align="center">
     <img src="https://img.shields.io/badge/Focus-Mobile_Architecture_%26_KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Focus" />
     <img src="https://img.shields.io/badge/Algorithms-250+_LeetCode_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Solved" />
     <img src="https://img.shields.io/badge/Google_Play_Console-Active_Track-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Console" />
     <img src="https://img.shields.io/badge/Systems-C++_NDK_%7C_Audio_DSP_%7C_Vision-00E5FF?style=flat-square&logo=cplusplus&logoColor=white" alt="Systems" />
 
-      #### Mobile & Architecture
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -28,14 +25,12 @@
   <img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Koin_%2F_Dagger_Hilt-000000?style=for-the-badge&logo=google&logoColor=white" />
 
-  #### Performance, DSP & Vision
   <img src="https://img.shields.io/badge/JNI_%2F_NDK-3DDC84?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/USB--OTG_SysEx-FFA000?style=for-the-badge&logo=usb&logoColor=white" />
   <img src="https://img.shields.io/badge/ExoPlayer_%2F_Media3-E91E63?style=for-the-badge&logo=youtube&logoColor=white" />
 
-  #### Databases, Cloud & Web
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite_%2F_Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -43,15 +38,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-
-  </p>
-
-  
-
-  <p align="center">
-    <b>Architecting fluid cross-platform runtimes, low-latency DSP pipelines, offline-first databases, and on-device neural vision.</b>
-  </p>
-
+</p>
 </div>
 
 
