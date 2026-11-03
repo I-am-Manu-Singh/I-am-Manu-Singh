@@ -27,13 +27,11 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     <img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines & Flow" />
     <img src="https://img.shields.io/badge/Koin_%2F_Dagger_Hilt-000000?style=for-the-badge&logo=google&logoColor=white" alt="Koin / Dagger Hilt" />
-
     <img src="https://img.shields.io/badge/JNI_%2F_NDK-3DDC84?style=for-the-badge&logo=cplusplus&logoColor=white" alt="JNI / NDK" />
     <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
     <img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
     <img src="https://img.shields.io/badge/USB--OTG_SysEx-FFA000?style=for-the-badge&logo=usb&logoColor=white" alt="USB-OTG SysEx" />
     <img src="https://img.shields.io/badge/ExoPlayer_%2F_Media3-E91E63?style=for-the-badge&logo=youtube&logoColor=white" alt="ExoPlayer / Media3" />
-
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/SQLite_%2F_Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite / Room" />
@@ -43,6 +41,7 @@
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
   </p>
 </div>
+
 
 ### 📊 GitHub Activity & Real-Time Telemetry
 
