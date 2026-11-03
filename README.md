@@ -2,8 +2,9 @@
 
   <h1>⚡ Manu Singh</h1>
   <h3>Mobile Systems Engineer · Android & Kotlin Multiplatform Architect · High-Performance Offline & AI Apps</h3>
-  &nbsp;![](https://komarev.com/ghpvc/?username=I-am-Manu-Singh&color=brightgreen)
-
+  <p align="center">
+      &nbsp;![](https://komarev.com/ghpvc/?username=I-am-Manu-Singh&color=brightgreen)
+  </p>
   <p align="center">
     <a href="https://manusingh.vercel.app/"><img src="https://img.shields.io/badge/Interactive_Portfolio-0066CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Interactive Portfolio" /></a>
     <a href="https://github.com/I-am-Manu-Singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -258,10 +259,10 @@ Specializing in native mobile performance, modular multiplatform architecture, a
 
 <div align="center">
 <img
-  src="https://github-statspro.vercel.app/api/stats/I-am-Manu-Singh"
+  src="https://github-statspro.vercel.app/api/stats/I-am-Manu-Singh" height="160" 
   alt="Stats Card"
 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Manu-Singh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00e5ff" height="160" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Manu-Singh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00e5ff" height="160" alt="Top Languages" /> -->
 </div>
 
 <div align="center" style="margin-top: 10px;">
